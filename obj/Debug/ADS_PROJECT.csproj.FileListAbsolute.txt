@@ -1,0 +1,50 @@
+C:\Users\AA noor\source\repos\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.exe.config
+C:\Users\AA noor\source\repos\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.exe
+C:\Users\AA noor\source\repos\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.pdb
+C:\Users\AA noor\source\repos\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csprojAssemblyReference.cache
+C:\Users\AA noor\source\repos\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.Form1.resources
+C:\Users\AA noor\source\repos\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.Properties.Resources.resources
+C:\Users\AA noor\source\repos\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csproj.GenerateResource.cache
+C:\Users\AA noor\source\repos\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\AA noor\source\repos\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.exe
+C:\Users\AA noor\source\repos\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.pdb
+C:\Users\Digital Dividend\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csprojAssemblyReference.cache
+C:\Users\Digital Dividend\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.Form1.resources
+C:\Users\Digital Dividend\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.Properties.Resources.resources
+C:\Users\Digital Dividend\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csproj.GenerateResource.cache
+C:\Users\Digital Dividend\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Digital Dividend\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.exe
+C:\Users\Digital Dividend\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.pdb
+C:\Users\Digital Dividend\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.exe.config
+C:\Users\Digital Dividend\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.exe
+C:\Users\Digital Dividend\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.pdb
+C:\Users\kh\Desktop\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.exe.config
+C:\Users\kh\Desktop\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.exe
+C:\Users\kh\Desktop\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.pdb
+C:\Users\kh\Desktop\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csprojAssemblyReference.cache
+C:\Users\kh\Desktop\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.Form1.resources
+C:\Users\kh\Desktop\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.Properties.Resources.resources
+C:\Users\kh\Desktop\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csproj.GenerateResource.cache
+C:\Users\kh\Desktop\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\kh\Desktop\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.exe
+C:\Users\kh\Desktop\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.pdb
+C:\Users\AA noor\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.exe.config
+C:\Users\AA noor\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.exe
+C:\Users\AA noor\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.pdb
+C:\Users\AA noor\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csprojAssemblyReference.cache
+C:\Users\AA noor\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.Form1.resources
+C:\Users\AA noor\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.Properties.Resources.resources
+C:\Users\AA noor\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csproj.GenerateResource.cache
+C:\Users\AA noor\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\AA noor\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.exe
+C:\Users\AA noor\Downloads\ADS_PROJECT\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.pdb
+C:\Users\AA noor\Documents\ADS_PROJECT_TEXTEDITOR\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.exe.config
+C:\Users\AA noor\Documents\ADS_PROJECT_TEXTEDITOR\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.exe
+C:\Users\AA noor\Documents\ADS_PROJECT_TEXTEDITOR\ADS_PROJECT\ADS_PROJECT\bin\Debug\ADS_PROJECT.pdb
+C:\Users\AA noor\Documents\ADS_PROJECT_TEXTEDITOR\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csprojAssemblyReference.cache
+C:\Users\AA noor\Documents\ADS_PROJECT_TEXTEDITOR\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.Form1.resources
+C:\Users\AA noor\Documents\ADS_PROJECT_TEXTEDITOR\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.Properties.Resources.resources
+C:\Users\AA noor\Documents\ADS_PROJECT_TEXTEDITOR\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csproj.GenerateResource.cache
+C:\Users\AA noor\Documents\ADS_PROJECT_TEXTEDITOR\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\AA noor\Documents\ADS_PROJECT_TEXTEDITOR\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.exe
+C:\Users\AA noor\Documents\ADS_PROJECT_TEXTEDITOR\ADS_PROJECT\ADS_PROJECT\obj\Debug\ADS_PROJECT.pdb
